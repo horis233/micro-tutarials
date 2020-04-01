@@ -1,2 +1,3 @@
-# micro-tutarials
-It is a prectice repo following https://github.com/micro-in-cn/tutorials 
+# micro-tutorials
+
+It is a tutorial repo based on [micro-in-cn](https://github.com/micro-in-cn/tutorials)
