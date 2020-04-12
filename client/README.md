@@ -3,5 +3,5 @@
 How to use Micro Client
 
 - [JSON Client](json)
-- [Retry](retry)
+- [Client Retry](retry)
 - [RPC Client](rpc)
