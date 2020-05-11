@@ -70,7 +70,7 @@ Request path    |    Service    |    Backend service path
 
 ### Event type
 
-When starting **API**, the instruction `--handler = event` is passed, then **API** will reverse the proxy request to the background event consumption service with API namespace.
+When starting **API**, the instruction `--handler=event` is passed, then **API** will reverse the proxy request to the background event consumption service with API namespace.
 
 For example (namespace is set to go.micro.evt):
 
